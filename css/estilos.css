@@ -49,3 +49,10 @@ font-size:20px;
     background: white;
     padding:1em;
 }
+#footer
+{
+    background: green;
+    color: white;
+    text-align: center;
+    padding: 5px;
+}
