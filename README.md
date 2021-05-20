@@ -1,2 +1,2 @@
-# hyperblog
-Blog para platzi de clase de git
+# hyperblog 💚
+Blog para platzi de clase de git 
